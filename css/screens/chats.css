@@ -1,0 +1,10 @@
+.ad {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+  width: 100vw;
+}
+.adimg {
+  width: 100vw;
+}
